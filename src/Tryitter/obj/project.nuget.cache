@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8y3aY7YRHeGSVkALD9KHUOwNAKa2Jv7533jlpT6UTdYN58gPrgNHxyoOx6UsfapV+yTPdK5BtoBrQE6h4O3zBQ==",
+  "success": true,
+  "projectFilePath": "/home/klecianny/Área de Trabalho/projeto-acc-back/src/Tryitter/Tryitter.csproj",
+  "expectedPackageFiles": [
+    "/home/klecianny/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/klecianny/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/klecianny/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/klecianny/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/klecianny/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/klecianny/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
